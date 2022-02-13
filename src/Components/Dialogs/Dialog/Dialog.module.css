@@ -1,0 +1,11 @@
+.item {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.active {
+    color: #ffea00;
+    margin: 10px;
+    text-decoration: none;
+}

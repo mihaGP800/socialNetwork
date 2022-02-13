@@ -1,43 +1,20 @@
-.wraper {
+.app-wrapper {
     margin: 0 auto;
+    width: 1000px;
     display: grid;
     grid-template-rows: 34px 1fr;
-    grid-template-columns: 1fr 3fr;
+    grid-template-columns: 1fr 8fr;
     grid-template-areas:
                 'h h'
                 'n c';
-
 }
-
-.header {
-    margin: 2px;
-    grid-area: h;
-    background: #ffe989;
-
-}
-
-.header img {
-
-    width: 30px;
-    height: 30px;
-    border-radius: 30px;
-
-}
-
-.nav {
-    margin: 2px;
-    grid-area: n;
-    background: #b5fdfd;
-}
-
-
-.content {
+.app-wrapper-content{
     margin: 2px;
     grid-area: c;
-    background: #b6faae;
+    background: #90b6a3;
 }
 
-.content img {
-    width: 350px;
-    height: 150px;
-}
+
+
+
+

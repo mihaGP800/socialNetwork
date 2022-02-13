@@ -1,0 +1,18 @@
+.messages{
+    display: grid;
+    grid-template-columns: 2fr 8fr;
+
+}
+
+.messageItems{
+
+}
+
+.message{}
+
+
+
+.dialogs{
+
+}
+
