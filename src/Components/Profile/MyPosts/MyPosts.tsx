@@ -9,7 +9,7 @@ export const MyPosts = () => {
                 <div><h3>My posts</h3></div>
                 <textarea></textarea>
                 <div>
-                    <button>add post</button>
+                    <button>ADD POST</button>
                 </div>
 
             </div>
